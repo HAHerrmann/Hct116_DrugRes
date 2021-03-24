@@ -3,7 +3,7 @@
 Mass spectrometry-based metabolomics approaches provide an immense opportunity to enhance our understanding of the mechanisms that underpin the cellular reprogramming of cancers. Accurate comparative metabolic profiling of heterogeneous conditions, however, is still a challenge. Measuring both intracellular and extracellular metabolite concentrations we constrain four instances of a thermodynamic genome-scale metabolic model of the HCT116 colorectal carcinoma cell-line to compare the metabolic flux profiles of cells that are either sensitive or resistant to ruthenium- or platinum-based treatments. Normalizing according to growth rate and normalizing resistant cells according to their respective sensitive controls, we are able to compare the drug-specific metabolic responses of resistant cells. We find the normalization steps to be crucial in the interpretation of the metabolomics data and show that the metabolic reprogramming in resistant cells is limited to a select number of pathways.
 
 This work is currently in preparation/submission. The Zenodo link for the work captured at the time of submission is: 
-*insert DOI* 
+[![DOI](https://zenodo.org/badge/351150240.svg)](https://zenodo.org/badge/latestdoi/351150240)
 
 The analysis can be re-constructed from the following Jupyter notebooks
 - `growth_rate_analysis.ipynb`: Growth rates fitted to the experimentally determined cell counts 
